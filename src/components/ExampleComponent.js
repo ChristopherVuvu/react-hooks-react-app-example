@@ -9,6 +9,7 @@ function ExampleComponent() {
         alt="a deeply impressed man, perhaps thinking 'whoa'"
       />
       <p>Whoa!</p>
+      <p>The man is thinking</p>
     </div>
   );
 }
